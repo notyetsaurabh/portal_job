@@ -38,3 +38,15 @@ app.listen(PORT,()=>{
     connectDB();
     console.log(`Server running at port ${PORT}`);
 })
+
+
+//MONGO_URI= mongodb+srv://igsaurabh28:xdGKZJTZjWESK8o9@cluster0.ozueq.mongodb.net/portal_job
+//PORT=8000
+ //SECRET_KEY=carbon
+
+
+
+
+//API_KEY=492322368151854
+//CLOUD_NAME= dmgdh3anx
+//API_SECRET=M4UvZBYd7EXYH747Fw-36N3BAn4
